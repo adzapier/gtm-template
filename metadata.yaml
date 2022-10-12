@@ -1,5 +1,5 @@
 homepage: "https://www.adzapier.com"
-documentation: "https://support.adzapier.com/help-center/articles/76/setup-google-tag-manager-with-adzapier-consent-manager-template"
+documentation: "https://support.adzapier.com/help-center/articles/76/setup-adzapier-consent-manager-template-using-google-tag-manager"
 versions:
   - sha: e0c4a129737f3f58d7ade5e593dbf1e96cc9c835
     changeNotes: Added terms of service 
